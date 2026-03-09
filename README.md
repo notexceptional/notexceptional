@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **LABTRACK , a project for our SPL-1 course**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
