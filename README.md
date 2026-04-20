@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I'm currently working on **LABTRACK**, a project for our SPL-1 course
+- 🔭 I'm currently learning Js
 
 ---
 
